@@ -1,5 +1,6 @@
-# SumoRoboArduino
-Código para robô sumo feito em C para placas Arduino Uno.
+# Sumo Robo com Arduino
+
+Código para robô sumo feito em C++ para placas Arduino.
 
 Esse código foi feito para um robô contendo as seguintes especificações de Hardware:
 
